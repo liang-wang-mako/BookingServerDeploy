@@ -1,0 +1,284 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Boys",
+      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+      "rate": "PG",
+      "director": "Eric Kripke",
+      "star": "Karl Urban, Jack Quaid, Antony Starr",
+      "trailer": "https://www.imdb.com/video/vi53855769/?ref_=vp_wbr_btf_tp_vp",
+      "length": "1h",
+      "price": 13.00
+    },
+
+    {
+      "id": 2,
+      "name": "The Acolyte: Plan",
+      "description": "An investigation into a shocking crime spree pits a respected Jedi Master against a dangerous warrior from his past. As more clues emerge, they travel down a dark path where sinister forces reveal all is not what it seems...",
+      "rate": "PG",
+      "director": "Leslye Headland",
+      "star": "Amandla StenbergDafne KeenJodie Turner-Smith",
+      "trailer": "https://www.imdb.com/video/vi3639395865/?playlistId=tt12262202&ref_=tt_ov_vi",
+      "length": "35m",
+      "price": 9.00
+    },
+
+    {
+      "id": 3,
+      "name": "Hit Man",
+      "description": "A professor moonlighting as a hit man of sorts for his city police department, descends into dangerous, dubious territory when he finds himself attracted to a woman who enlists his services.",
+      "rate": "PG",
+      "director": "Richard Linklater",
+      "star": "Glen Powell, Adria Arjona, Austin Amelio",
+      "trailer": "https://www.imdb.com/video/vi1241237017/?playlistId=tt20215968&ref_=tt_ov_vi",
+      "length": "1h 55m",
+      "price": 16.00
+    },
+
+    {
+      "id": 4,
+      "name": "Bridgerton",
+      "description": "The eight close-knit siblings of the Bridgerton family look for love and happiness in London high society.",
+      "rate": "PG",
+      "director": "Chris Van Dusen",
+      "star": "Nicola Coughlan, Claudia Jessie, Luke Thompson",
+      "trailer": "https://www.imdb.com/video/vi653510169/?playlistId=tt8740790&ref_=tt_ov_vi",
+      "length": "1h",
+      "price": 13.00
+    },
+    {
+      "id": 5,
+      "name": "Bad Boys: Ride or Die",
+      "description": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
+      "rate": "R",
+      "director": "Adil El Arbi, Bilall Fallah",
+      "star": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+      "trailer": "https://www.imdb.com/video/vi3000682009/?playlistId=tt4919268&ref_=tt_ov_vi",
+      "length": "1h 55m",
+      "price": 16.00
+    },
+    {
+      "id": 6,
+      "name": "Inside Out 2",
+      "description": "Follows Riley, in her teenage years, encountering new emotions.",
+      "rate": "PG",
+      "director": "Kelsey Mann",
+      "star": "Amy Poehler, Maya Hawke, Kensington Tallman",
+      "trailer": "https://www.imdb.com/video/vi2848704025/?playlistId=tt22022452&ref_=tt_pr_ov_vi",
+      "length": "1h 36m",
+      "price": 15.0
+    },
+    {
+      "id": 7,
+      "name": "House of the Dragon",
+      "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "rate": "PG",
+      "director": "Ryan J. Condal, George R.R. Martin",
+      "star": "Matt Smith, Emma D'Arcy, Olivia Cooke",
+      "trailer": "https://www.imdb.com/video/vi2369308185/?playlistId=tt11198330&ref_=tt_ov_vi",
+      "length": "50m",
+      "price": 10.00
+    },
+    {
+      "id": 8,
+      "name": "Furiosa: A Mad Saga",
+      "description": "The origin story of renegade warrior Furiosa before her encounter and teamup with Mad Max.",
+      "rate": "PG-13",
+      "director": "George Miller",
+      "star": "Anya Taylor-Joy, Chris Hemsworth, Tom Burke",
+      "trailer": "https://www.imdb.com/video/vi618513945/?playlistId=tt12037194&ref_=tt_ov_vi",
+      "length": "2h 28m",
+      "price": 17.00
+    },
+    {
+      "id": 9,
+      "name": "Under Paris",
+      "description": "To save Paris from a bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+      "rate": "PG-13",
+      "director": "Xavier Gens",
+      "star": "Bérénice Bejo, Nassim LyesLéa Léviant",
+      "trailer": "https://www.imdb.com/video/vi368166425/?ref_=vi_tr_mp_vp_8",
+      "length": "1h 44m",
+      "price": 15.00
+    },
+    {
+      "id": 10,
+      "name": "Game of Thrones",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "rate": "PG-13",
+      "director": "David Benioff, D.B. Weiss",
+      "star": "Karl Urban, Jack Quaid, Antony Starr",
+      "trailer": "https://www.imdb.com/video/vi1988544281/?ref_=vi_tr_mp_vp_9",
+      "length": "1h",
+      "price": 13.00
+    },
+    {
+      "id": 11,
+      "name": "Dark Matter",
+      "description": "A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could've lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself.",
+      "rate": "PG-13",
+      "director": "Blake Crouch",
+      "star": "Joel Edgerton, Jennifer Connelly, Alice Braga",
+      "trailer": "https://www.imdb.com/video/vi1425327641/?ref_=vi_tr_mp_vp_10",
+      "length": "55m",
+      "price": 13.00
+    },
+    {
+      "id": 12,
+      "name": "Sweet Tooth",
+      "description": "A boy who is half human and half deer survives in a post-apocalyptic world with other hybrids.",
+      "rate": "PG-13",
+      "director": "Jim Mickle",
+      "star": "Nonso Anozie, Christian Convery, Stefania LaVie Owen",
+      "trailer": "https://www.imdb.com/video/vi2094974489/?ref_=vi_tr_mp_vp_12",
+      "length": "50m",
+      "price": 12.00
+    },
+
+    {
+      "id": 13,
+      "name": "Fallout",
+      "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
+      "rate": "PG-13",
+      "director": "Geneva Robertson-Dworet, Graham Wagner",
+      "star": "Ella Purnell, Aaron Moten, Walton Goggins",
+      "trailer": "https://www.imdb.com/video/vi788252185/?ref_=vi_tr_mp_vp_13",
+      "length": "1h",
+      "price": 13.00
+    },
+
+    {
+      "id": 14,
+      "name": "The Fall Guy",
+      "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+      "rate": "PG-13",
+      "director": "David Leitch",
+      "star": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson",
+      "trailer": "https://www.imdb.com/video/vi3499935257/?ref_=vi_tr_mp_vp_14",
+      "length": "2h 6m",
+      "price": 16.00
+    },
+    {
+      "id": 15,
+      "name": "Your Honor",
+      "description": "A judge confronts his convictions when his son is involved in a hit-and-run that embroils an organized-crime family.",
+      "rate": "PG-13",
+      "director": "Peter Moffat",
+      "star": "Bryan Cranston, Hope Davis, Michael Stuhlbarg",
+      "trailer": "https://www.imdb.com/video/vi1899349273/?ref_=vi_tr_mp_vp_15",
+      "length": "57m",
+      "price": 13.00
+    },
+    {
+      "id": 16,
+      "name": "Godzilla Minus One",
+      "description": "Post-war Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+      "rate": "PG-13",
+      "director": "Takashi Yamazaki",
+      "star": "Minami Hamabe, Ryunosuke Kamiki, Munetaka Aoki",
+      "trailer": "https://www.imdb.com/video/vi4181050905/?ref_=vi_tr_mp_vp_16",
+      "length": "2h 4m",
+      "price": 16.00
+    },
+    {
+      "id": 17,
+      "name": "Civil War",
+      "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
+      "rate": "R",
+      "director": "Alex Garland",
+      "star": "Kirsten Dunst, Wagner Moura, Cailee Spaeny",
+      "trailer": "https://www.imdb.com/video/vi1756939801/?ref_=vi_tr_mp_vp_18",
+      "length": "1h 49m",
+      "price": 15.00
+    },
+    {
+      "id": 18,
+      "name": "Criminal Minds",
+      "description": "A group of criminal profilers who work for the FBI as members of its Behavioral Analysis Unit (BAU) using behavioral analysis and profiling to help investigate crimes and find the suspect known as the unsub.",
+      "rate": "R",
+      "director": "Jeff Davis",
+      "star": "Kirsten Vangsness, Matthew Gray, GublerA.J. Cook",
+      "trailer": "https://www.imdb.com/video/vi2983839257/?ref_=vi_tr_mp_vp_19",
+      "length": "45m",
+      "price": 10.00
+    },
+    {
+      "id": 19,
+      "name": "Inside Out",
+      "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "rate": "PG",
+      "director": "Pete Docter, Ronnie Del Carmen",
+      "star": "Amy PoehlerBill HaderLewis Black",
+      "trailer": "https://www.imdb.com/video/vi203730969/?ref_=vi_tr_mp_vp_20",
+      "length": "1h 35m",
+      "price": 15.00
+    },
+    {
+      "id": 20,
+      "name": "Mayor of Kingstown",
+      "description": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+      "rate": "PG",
+      "director": "Hugh Dillon, Taylor Sheridan",
+      "star": "Jeremy Renner, Hugh Dillon, Tobi Bamtefa",
+      "trailer": "https://www.imdb.com/video/vi2229454361/?ref_=vi_tr_mp_vp_21",
+      "length": "1h 35m",
+      "price": 15.00
+    },
+    {
+      "id": 21,
+      "name": "The Abyss of Life",
+      "description": "Toranaga's defeated clan moves to Edo; Blackthorne must decide who he fights for.",
+      "rate": "PG",
+      "director": "Emmanuel Osei-Kuffour",
+      "star": "Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai",
+      "trailer": "https://www.imdb.com/video/vi87148057/?ref_=vi_tr_mp_vp_22",
+      "length": "55m",
+      "price": 10.00
+    },
+    {
+      "id": 22,
+      "name": "Dune: Part Two",
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "rate": "PG-13",
+      "director": "Denis Villeneuve",
+      "star": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+      "trailer": "https://www.imdb.com/video/vi3332425241/?ref_=vi_tr_mp_vp_23",
+      "length": "2h 46m",
+      "price": 18.00
+    },
+    {
+      "id": 23,
+      "name": "Ape Planet Kingdom",
+      "description": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+      "rate": "PG-13",
+      "director": "Wes Ball",
+      "star": "Owen Teague, Freya Allan, Kevin Durand",
+      "trailer": "https://www.imdb.com/video/vi904447513/?ref_=vi_tr_mp_vp_25",
+      "length": "2h 25m",
+      "price": 17.00
+    },
+    {
+      "id": 24,
+      "name": "Strangers: Chapter 1",
+      "description": "After their car breaks down in an eerie small town, a young couple is forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motive.",
+      "rate": "R",
+      "director": "Renny Harlin",
+      "star": "Madelaine Petsch, Ryan Bown, Matus Lajcak",
+      "trailer": "https://www.imdb.com/video/vi2678375961/?ref_=vi_tr_mp_vp_26",
+      "length": "1h 31m",
+      "price": 15.00
+    },
+    {
+      "id": 25,
+      "name": "The Bear",
+      "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+      "rate": "PG-13",
+      "director": "Christopher Storer",
+      "star": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri",
+      "trailer": "https://www.imdb.com/video/vi2670839321/?ref_=vi_tr_mp_vp_28",
+      "length": "34m",
+      "price": 9.00
+    }
+  ]
+}

@@ -16,6 +16,12 @@ app.listen(port, () => {
   console.log(`Server started on port ${port}.`)
 })
 
+//Test API
+app.get('/api/testingdata', (req, res) => {
+
+    res.send("The api is accessible!")
+}
+    )
 
 //The API is used to save booking details and update seats 
 //availability for the booked screen time of the movie
@@ -41,7 +47,7 @@ app.post('/api/booking', (req, res) => {
   })
 
   //The path of the file MovieSchedule.json
-  const scheduleFilePath = '../onlineticketbooking/src/data/MovieSchedule.json'
+  const scheduleFilePath = './data/MovieSchedule.json'
 
   //Load the file
   const scheduleFileContents = JSON.parse(
